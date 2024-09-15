@@ -1,1 +1,1 @@
-Design Thinking![Design Thinking](./mindmaps/design-thinking.jpg)
+Design Thinking![Design Thinking](../mindmaps/design-thinking.jpg)
