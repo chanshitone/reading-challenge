@@ -18,6 +18,6 @@ Here are some effective strategies to improve your reading speed:
 
 9. **Use Speed Reading Apps**: Consider using apps designed to help train your reading speed with various techniques.
 
-10. **Focus on Comprehension**: Speed is important, but understanding the material is key. Ensure you balance speed with comprehension to get the most out of your reading.
+10. **Focus on [Comprehension]()**: Speed is important, but understanding the material is key. Ensure you balance speed with comprehension to get the most out of your reading.
 
 By consistently applying these techniques, you can [gradually]() increase your reading speed while maintaining or even improving comprehension.
